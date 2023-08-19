@@ -4,7 +4,7 @@ description: Discover how to use page objects in BuckShotPlusPlus!
 
 # Page
 
-A pager object is similar to a [view](view.md) object, but is used to create new pages, here is how you create a new page in bpp:
+A page object is similar to a [view](view.md) object, but is used to create new pages, here is how you create a new page in bpp:
 
 ```
 page index{

@@ -17,3 +17,7 @@ If you want you can build your own binary for Buckshot++ using the official sour
 ### Run your BuckShot++ server
 
 To run your bpp server you just have to run the BuckShotPlusPlus executable with your main.bpp file path as first argument.
+
+```sh
+BuckShotPlusPlus.exe "path/to/your/main.bpp"
+```
