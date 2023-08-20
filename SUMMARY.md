@@ -16,6 +16,7 @@
 
 ## 🤓 The basics
 
+* [Comments](the-basics/comments.md)
 * [Include](the-basics/include.md)
 * [String concatenation](the-basics/string-concatenation.md)
 * [Conditions](the-basics/conditions.md)
