@@ -10,6 +10,7 @@ Sessions on bpp enables you to keep track of what a user is doing, the session d
 * id : The unique ID of the current session
 * lang : The user language
 * platform: The user platform
+* start: A unix timestamp, in milliseconds of the moment the session was created
 
 So for example if you would like to create a text displaying the user ip address you could do:
 
