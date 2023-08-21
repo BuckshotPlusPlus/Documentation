@@ -5,6 +5,10 @@
 * [What is BuckShot++?](README.md)
 * [Install](getting-started/install.md)
 
+## 📘 Tutorials
+
+* [Create a basic landing page](tutorials/create-a-basic-landing-page.md)
+
 ## 👔 Data types
 
 * [Variables](data-types/variables.md)
