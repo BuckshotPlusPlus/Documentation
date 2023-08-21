@@ -7,6 +7,7 @@
 
 ## 📘 Tutorials
 
+* [Getting started with BuckShot++](tutorials/getting-started-with-buckshot++.md)
 * [Create a basic landing page](tutorials/create-a-basic-landing-page.md)
 
 ## 👔 Data types
