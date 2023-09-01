@@ -1,10 +1,10 @@
 # Conditions
 
-In Buckshot++, conditions allow you to execute specific blocks of code based on whether a particular condition is met. They are fundamental to adding logic to your applications, enabling them to make decisions and react to different situations.
+In [BuckshotPlusPlus](https://bpplang.com/), conditions allow you to execute specific blocks of code based on whether a particular condition is met. They are fundamental to adding logic to your applications, enabling them to make decisions and react to different situations.
 
 ## How it works
 
-Conditions in Buckshot++ are similar to many other programming languages. They use the `if` keyword followed by a condition enclosed in parentheses. If the condition evaluates to `true`, the code block following the condition is executed. If it evaluates to `false`, the code block inside the `else` statement (if provided) is executed.
+Conditions in [BuckshotPlusPlus ](https://bpplang.com/)are similar to many other programming languages. They use the `if` keyword followed by a condition enclosed in parentheses. If the condition evaluates to `true`, the code block following the condition is executed. If it evaluates to `false`, the code block inside the `else` statement (if provided) is executed.
 
 Here's a basic example:
 
