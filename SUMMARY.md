@@ -2,7 +2,7 @@
 
 ## 🤝 Getting started
 
-* [What is BuckShot++?](README.md)
+* [What is BuckShotPlusPlus?](README.md)
 * [Install](getting-started/install.md)
 
 ## 📘 Tutorials
