@@ -27,4 +27,8 @@
 * [Conditions](the-basics/conditions.md)
 * [Sessions](the-basics/sessions.md)
 * [Static site export](the-basics/static-site-export.md)
-* [Meta tags](the-basics/meta-tags.md)
+
+## 🔍 SEO
+
+* [Sitemap.xml](seo/sitemap.xml.md)
+* [Meta tags](seo/meta-tags.md)
