@@ -36,6 +36,18 @@ page blog{
 
 This will create a page accessible at the `/blog` URL.
 
+### Custom fonts
+
+In BuckShotPlusPlus, you can easily import custom fonts using the fonts attribute and specify an [array](arrays.md) of url's like in the following example:
+
+```
+page index{
+	title = "My Index!"
+	body = My_Body_View
+	fonts = ["https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nerko+One&family=Poppins&display=swap"]
+}
+```
+
 ## Use cases
 
 1. **Website Structure**: Pages allow you to define the structure of your website, specifying which content appears on which page.
