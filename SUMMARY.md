@@ -32,3 +32,7 @@
 
 * [Sitemap.xml](seo/sitemap.xml.md)
 * [Meta tags](seo/meta-tags.md)
+
+## Advanced use
+
+* [CSS Properties](advanced-use/css-properties.md)
