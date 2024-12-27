@@ -5,10 +5,11 @@
 * [What is BuckShotPlusPlus?](README.md)
 * [Install](getting-started/install.md)
 
-## 📘 Tutorials
+## 📺 Video tutorials
 
-* [Getting started with BuckShotPlus](tutorials/getting-started-with-buckshotplus.md)
-* [Create a basic landing page](tutorials/create-a-basic-landing-page.md)
+* [Getting started with bpp](video-tutorials/getting-started-with-bpp.md)
+* [How to use reusable components](video-tutorials/how-to-use-reusable-components.md)
+* [How to use events](video-tutorials/how-to-use-events.md)
 
 ## 👔 Data types
 
